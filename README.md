@@ -32,9 +32,8 @@ Usage
 
     Run the script by executing the following command in your terminal:
 
-    bash
 
-python pdf_to_excel_converter.py
+python PdfToExcel.py
 
 Click the "Select PDF Files" button and choose one or multiple PDF files for conversion.
 Wait for the conversion process to complete.
