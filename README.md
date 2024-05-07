@@ -14,7 +14,7 @@ This Python script converts PDF files to Excel (.xlsx) format using Tkinter for 
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/pdf-to-excel-converter.git
+   git clone https://github.com/Mustafa1p/PDF-to-Excel-by-Python.git
 
     Navigate to the project directory:
 
